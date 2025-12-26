@@ -34,7 +34,7 @@
 
 .wpcf7 form.invalid .wpcf7-response-output,
 .wpcf7 form.unaccepted .wpcf7-response-output {
-	border-color: #ffb900; /* Yellow */
+	border-color yellow; /* Yellow */
 }
 
 .wpcf7-form-control-wrap {
