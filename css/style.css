@@ -597,11 +597,12 @@ h6, #container > h6{
 	/*Navigation menu*/
 	nav {
 		position:relative;
-		float:left;
+		float:center;
 		width: 958px;
 		height: 38px;
 		list-style: none;
 		padding:0;
+        text-align:center;
 		z-index:111;
 		margin:20px 0 25px 0px;
 	}
@@ -611,7 +612,7 @@ h6, #container > h6{
 		}
 		nav ul {
 			margin:0;
-			float: left;
+			float: center;
 		}
 			nav ul ul {
 				float: none;
